@@ -1,5 +1,5 @@
 <?php
-$host = 'mysql-3921bfd8-freeladuo-db.a.aivencloud.com';
+$host = 'freeladuo-db-freeladuo.h.aivencloud.com';
 $port = 21056;
 $user = 'avnadmin';
 $pass = 'SUA_SENHA_DO_AIVEN';
